@@ -2,7 +2,8 @@
 
 Come over to YouTube, like, comment and leave feedback on how to make it better!
 
-https://youtu.be/TCLGqFMUrQQ?feature=shared
+[![Video Title](https://img.youtube.com/vi/TCLGqFMUrQQ/0.jpg)](https://www.youtube.com/watch?v=TCLGqFMUrQQ)
+
 
 I'm about access and not cash.  Let's level the playing field from the AWS oligarchiary!  
 
