@@ -120,4 +120,6 @@ Reflecting the sky's ever-changing moods, all day long.
 
 ## AutoPilot Machine Learning
 
-https://youtu.be/nxBwUlDJfMg?feature=shared
+[![Video Title](https://img.youtube.com/vi/nxBwUlDJfMg/0.jpg)](https://www.youtube.com/watch?v=nxBwUlDJfMg)
+
+
